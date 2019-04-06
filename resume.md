@@ -10,6 +10,9 @@ https://github.com/plobrien
 # Summary
 Geography and Geospatial Science student at Oregon State University looking to broaden GIS knowledge outside of the classroom. Highly motivated and eager to learn from professionals in the GIS field.
 
+>There can be no great accomplishment without risk.
+>**Neil Armstrong**
+
 # Education
 ![](OSU.jpg)
 **Oregon State University (Corvallis, OR)**
@@ -55,4 +58,4 @@ http://www.mvpsupply.com/
 
 
 **As Ron Swanson once said:**
-> I'm a simple man. I like pretty, dark haired women, and breakfast food.
+>
