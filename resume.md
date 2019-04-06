@@ -53,5 +53,6 @@ http://www.mvpsupply.com/
 - R
 - Python
 
-**Ron Swanson once said:**
+
+**As Ron Swanson once said:**
 > I'm a simple man. I like pretty, dark haired women, and breakfast food.
