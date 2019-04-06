@@ -11,6 +11,7 @@ https://github.com/plobrien
 Geography and Geospatial Science student at Oregon State University looking to broaden GIS knowledge outside of the classroom. Highly motivated and eager to learn from professionals in the GIS field.
 
 >There can be no great accomplishment without risk.
+>
 >**Neil Armstrong**
 
 # Education
@@ -55,7 +56,3 @@ http://www.mvpsupply.com/
 - CSS
 - R
 - Python
-
-
-**As Ron Swanson once said:**
->
