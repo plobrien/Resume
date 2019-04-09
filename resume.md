@@ -18,14 +18,10 @@ Geography and Geospatial Science student at Oregon State University looking to b
 ![](OSU.jpg)
 **Oregon State University (Corvallis, OR)**
 
-*Geography and Geospatial Science*
-
-https://ceoas.oregonstate.edu/geography/
+[*Geography and Geospatial Science*] (https://ceoas.oregonstate.edu/geography/)
 - In Progress
 
-*Geographic Information Science Certificate*
-
-https://ceoas.oregonstate.edu/giscience/undergraduate/
+[*Geographic Information Science Certificate*] (https://ceoas.oregonstate.edu/giscience/undergraduate/)
 - In Progress
 
 # Employment
