@@ -12,7 +12,7 @@ Geography and Geospatial Science student at Oregon State University looking to b
 
 >"There can be no great accomplishment without risk."
 >
-> - **Neil Armstrong**
+> **Neil Armstrong**
 
 # Education
 ![](OSU.jpg)
